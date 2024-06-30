@@ -1,0 +1,41 @@
+MeanNPC
+1
+Hey, I'm Zoltan. I've been called many things – eccentric, quirky, maybe a tad strange. Today, you can call me your guide through this maze of mind-benders. Let's see if you've got what it takes to keep up with the weirdness.
+Curiosity got you in here, huh? Well, fair warning: There's no turning back. Hope you brought your thinking caps; you're gonna need 'em.
+Still stuck here huh?"
+Magic, schmagic. This isn't Hogwarts, but you're gonna wish you paid attention in Defense Against the Dark Riddles. Brace yourselves – no hand-holding here.
+Paths and pitfalls, folks. Some twists might tangle your thoughts. Just remember, appearances can deceive. Let's weed out the clever from the clueless.
+Logic takes a backseat here. Forget what you know; this is my world, and things get a bit weird. Embrace the chaos, or it'll eat you alive.
+Choices, choices. Some doors might mess with you. Just remember, not everything is as it seems. Time to separate the thinkers from the stinkers.
+Ever tried catching a shadow? Well, now you have. Hunt down those keys like your freedom depends on it. Hint: It does.
+Time's ticking, and it's not waiting for anyone. Solve fast or stay stuck – your call. Tick-tock, my friends, tick-tock.
+Survived round one – not bad. But don't pat yourselves on the back just yet. The real challenges are waiting. Keep that momentum rolling; you're gonna need it.
+None
+
+HelpfulNPC
+4
+Hello! Hand me a chest and I promise I'll make it worth your while. I will not repeat myself!
+Crossroads, my friend. Your next move determines your destiny. Complete the challenge ahead, and I'll hand you a little something to make the journey sweeter. Fall short, and, well, the choice is yours.
+Opportunity knocks, adventurer. Behind that door lies a task, and behind the task lies a reward. Answer the call, and your pockets might just get a bit heavier. Ignore it, and, well, you'll never know what you missed.
+Ever played the game of give and take? Here's your chance. Give me what I need, and I'll hand you something you might just find useful. Refuse, and, well, let's just say you'll miss out on a golden opportunity.
+I've got a proposition for you. Solve the puzzle, perform the deed, and you'll find yourself with a nifty tool in your hands. Stumble or resist, and, well, who knows what wonders you'll forfeit.
+It's a simple equation, really. Task equals reward. Succeed, and I'll make it worth your while. Stumble, and, well, you might just have to face the next challenge a bit less equipped.
+In this game of give and get, your actions shape your fate. Accomplish the task, and I'll hand you a little treasure. Shy away, and, well, let's just say missed opportunities have a way of haunting.
+I've got a proposition for you. Perform a feat of skill or wit, and I'll grant you a little something for your troubles. Decline, and, well, you might just find the road ahead a tad rougher.
+I might have just what you need to escape this room after all.
+Here's the deal – a task awaits, and success opens the door to a reward. Decline the challenge, and, well, you'll be left wondering what you could have gained. Your call.
+None
+
+TraderNPC
+3
+Welcome, traveler. Got something shiny to trade? I've got a keen eye for barter, and I'm feeling generous for the right offer.
+Trade is the name of the game. Lay out your wares, and let's see if we can strike a deal. A fair warning – I'm not a pushover, so bring your A-game.
+Ah, a potential customer! Let's talk business. I've got goods you didn't know you needed. What have you got that might catch my interest?
+Barter and banter, my friend. Lay out your cards, and I'll do the same. Let's dance in the delicate art of give and take.
+Trade's the heartbeat of these parts. What brings you to my humble shop? Show me what you've got, and we might just find a match.
+A merchant's life is all about the exchange. Lay your goods on the table, and we'll see if we can orchestrate a mutually beneficial deal.
+Goods for goods, that's the way of the world. What've you brought to the table? Let's see if we can strike a chord of agreement.
+Welcome to my emporium. I've got a bit of everything, but I'm always open to new acquisitions. What treasures have you got to share?
+Trade is the lifeblood of these lands. What's in your pouch, and what do you seek in return? Let's make this transaction worth our while.
+Step right up! I'm in the mood for some wheelin' and dealin'. Lay out your offerings, and let's see if we can't make both our days a bit brighter.
+None

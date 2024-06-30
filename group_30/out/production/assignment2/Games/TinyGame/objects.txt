@@ -1,0 +1,29 @@
+bird
+a water bird
+4
+StrangeItem
+1
+
+chest
+a pirate chest
+2
+StrangeItem
+3
+
+book
+a copy of an illuminated manuscript
+11
+Readable
+5
+
+note
+a strange note
+10
+Readable
+5
+
+key
+A key used to open something
+6
+KeyItem
+10

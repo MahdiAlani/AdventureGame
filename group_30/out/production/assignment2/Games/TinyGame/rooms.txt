@@ -1,0 +1,98 @@
+1
+Office
+You stand within a small office. A torch flickers on the wall. To the north lies the ballroom, and to the east is the library.
+-----
+NORTH      2
+EAST       9
+
+2
+Study
+A cozy study filled with antique furniture. Books and scrolls cover the desk and shelves.
+-----
+SOUTH      3
+EAST       4
+
+3
+Mountain's View
+A room with a grand window showcasing distant snowy peaks. An armchair by the view invites a moment of contemplation.
+-----
+WEST       1
+NORTH      5
+
+4
+Gallery
+Several artworks of various styles decorate the walls. Some paintings seem to conceal secrets.
+-----
+WEST       2
+NORTH      9
+OUT        10
+
+5
+Observation Room
+A small chamber with plush chairs and a telescope facing the window. Star charts adorn the walls, while an open book lies on the table.
+-----
+SOUTH      3/key
+EAST       8
+
+6
+A drawer
+-----
+OUT        9
+
+7
+Secret Room
+A hidden chamber with mysterious artifacts and enigmatic symbols adorning the walls.
+-----
+SOUTH      4
+NORTH      8/chest
+
+8
+Laboratory
+A small laboratory equipped with bubbling flasks and scientific apparatuses.
+-----
+WEST       5
+NORTH      10
+
+9
+Crypt
+A dark and eerie crypt adorned with ancient coffins and dimly lit by flickering torches.
+-----
+SOUTH      7
+DOWN       11/key
+
+10
+Treasure Room
+A chamber filled with glittering treasures and precious artifacts.
+-----
+SOUTH      8
+
+11
+King's Room
+A lavishly decorated room fit for a king. Gilded furniture and majestic portraits embellish the walls. An ornate chest rests at the center of the room.
+-----
+SOUTH      3
+EAST       7
+
+12
+Underground Passage
+A hidden passage leading to unknown depths within the structure.
+-----
+NORTH         13
+
+13
+Locked Doorway
+This exit requires a code to unlock, wherever it may lead.
+-----
+OUT        13/Code
+
+14
+Victory
+You have collected all the treasures and are admitted to the Adventurer's Hall of Fame. Congratulations!
+-----
+FORCED     0
+
+15
+A closed drawer
+-----
+OUT        9
+
